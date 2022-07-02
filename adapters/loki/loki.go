@@ -1,3 +1,4 @@
+// Package loki provides a loki adapter. Inspired by https://github.com/darkdarkdragon/logspout-loki/blob/master/loki.go
 package loki
 
 import (

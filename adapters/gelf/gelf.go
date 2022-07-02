@@ -1,3 +1,4 @@
+// Package gelf provides a GELF adapter based on https://github.com/micahhausler/logspout-gelf
 package gelf
 
 import (

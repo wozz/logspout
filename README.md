@@ -1,3 +1,10 @@
+# This is a fork of [Logspout](https://github.com/gliderlabs/logspout) with some patches specific for the [Home Assistant Logspout add-on](https://github.com/bertbaron/hassio-addons/tree/main/logspout)
+
+The following customizations are done:
+
+ * A GELF adapter has been added (TODO reference to documentation)
+ * A Loki adapter has been added (TODO reference to documentation)
+
 # logspout
 
 [![CircleCI](https://img.shields.io/circleci/project/gliderlabs/logspout/release.svg)](https://circleci.com/gh/gliderlabs/logspout)
