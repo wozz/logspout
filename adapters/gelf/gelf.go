@@ -10,8 +10,8 @@ import (
 	"time"
 
 	"github.com/Graylog2/go-gelf/gelf"
-	"github.com/gliderlabs/logspout/router"
 	"github.com/gliderlabs/logspout/cfg"
+	"github.com/gliderlabs/logspout/router"
 )
 
 var hostname string

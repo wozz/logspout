@@ -1,6 +1,7 @@
 package main
 
 import (
+	_ "github.com/dsouzajude/logspout-fluentd/fluentd"
 	_ "github.com/gliderlabs/logspout/adapters/gelf"
 	_ "github.com/gliderlabs/logspout/adapters/loki"
 	_ "github.com/gliderlabs/logspout/adapters/multiline"

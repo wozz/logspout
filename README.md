@@ -5,6 +5,7 @@ The following customizations are done:
  * A GELF adapter has been added (TODO reference to documentation)
  * A Loki adapter has been added (TODO reference to documentation)
  * A Logstash adapter has been added (https://github.com/looplab/logspout-logstash)
+ * A fluentd adapter has been added [README](https://github.com/dsouzajude/logspout-fluentd/tree/268ac03#logspout-fluentd)
 
 # logspout
 
