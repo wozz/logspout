@@ -17,9 +17,8 @@ require (
 	github.com/livepeer/loki-client v0.0.0-20190403184403-48157aae2826
 	github.com/looplab/logspout-logstash v0.0.0-20171130125839-68a4e47e757d
 	github.com/moby/term v0.0.0-20201216013528-df9cb8a40635 // indirect
-	github.com/opencontainers/runc v1.0.0-rc1.0.20160706165155-9d7831e41d3e // indirect
 	go.opencensus.io v0.22.6 // indirect
-	golang.org/x/net v0.0.0-20201110031124-69a78807bb2b
-	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a // indirect
-	golang.org/x/sys v0.0.0-20210124154548-22da62e12c0c // indirect
+	golang.org/x/net v0.8.0
 )
+
+replace github.com/dsouzajude/logspout-fluentd => github.com/dvallant/logspout-fluentd v0.0.0-20230419151057-a411b718ade1
