@@ -21,4 +21,4 @@ require (
 	golang.org/x/net v0.8.0
 )
 
-replace github.com/dsouzajude/logspout-fluentd => github.com/dvallant/logspout-fluentd v0.0.0-20230419151057-a411b718ade1
+replace github.com/dsouzajude/logspout-fluentd => github.com/dvallant/logspout-fluentd v0.0.0-20230414122503-268ac03d5611
