@@ -18,7 +18,7 @@ require (
 	github.com/looplab/logspout-logstash v0.0.0-20200721102059-f6992c03834b
 	github.com/moby/term v0.0.0-20201216013528-df9cb8a40635 // indirect
 	go.opencensus.io v0.22.6 // indirect
-	golang.org/x/net v0.8.0
+	golang.org/x/net v0.19.0
 )
 
 replace github.com/dsouzajude/logspout-fluentd => github.com/dvallant/logspout-fluentd v0.0.0-20230419151057-a411b718ade1
