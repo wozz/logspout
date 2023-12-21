@@ -15,7 +15,7 @@ require (
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/gorilla/mux v1.8.0
 	github.com/livepeer/loki-client v0.0.0-20190403184403-48157aae2826
-	github.com/looplab/logspout-logstash v0.0.0-20171130125839-68a4e47e757d
+	github.com/looplab/logspout-logstash v0.0.0-20200721102059-f6992c03834b
 	github.com/moby/term v0.0.0-20201216013528-df9cb8a40635 // indirect
 	go.opencensus.io v0.22.6 // indirect
 	golang.org/x/net v0.8.0
