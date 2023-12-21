@@ -13,7 +13,7 @@ require (
 	github.com/fsouza/go-dockerclient v1.7.0
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
-	github.com/gorilla/mux v1.8.0
+	github.com/gorilla/mux v1.8.1
 	github.com/livepeer/loki-client v0.0.0-20190403184403-48157aae2826
 	github.com/looplab/logspout-logstash v0.0.0-20200721102059-f6992c03834b
 	github.com/moby/term v0.0.0-20201216013528-df9cb8a40635 // indirect
