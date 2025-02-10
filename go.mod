@@ -11,7 +11,7 @@ require (
 	github.com/gorilla/mux v1.8.1
 	github.com/livepeer/loki-client v0.0.0-20190403184403-48157aae2826
 	github.com/looplab/logspout-logstash v0.0.0-20200721102059-f6992c03834b
-	golang.org/x/net v0.19.0
+	golang.org/x/net v0.35.0
 )
 
 replace github.com/dsouzajude/logspout-fluentd => github.com/dvallant/logspout-fluentd v0.0.0-20230419151057-a411b718ade1
